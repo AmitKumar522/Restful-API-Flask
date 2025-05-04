@@ -14,4 +14,4 @@ This project is a basic implementation of a RESTful API using Flask. It demonstr
 - Connect Flask to a SQL database using Flask-SQLAlchemy
 - Secure API endpoints
 
-## Folder Structure
+
